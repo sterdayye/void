@@ -1,7 +1,5 @@
 #!/bin/bash
 
-pause=1
-
 #Installing NetworkManager
 xbps-install NetworkManager network-manager-applet gnome-icon-theme gnome-keyring inetutils-ifconfig
 
